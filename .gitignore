@@ -4,5 +4,8 @@
 # Hugo
 resources/
 public/
+<<<<<<< HEAD
 .Rproj.user
 .github/FUNDING.yml
+=======
+>>>>>>> 6c36a1e75d941b3642fff0f4f29a7b7ae43617f7
