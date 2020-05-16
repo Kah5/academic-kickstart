@@ -20,16 +20,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research aims to understand and forecast the response of vegetation to multiple environmental changes from the tree to biome scales. This ecological forecasting approach allows us make predictions about future vegetation, with the overall goal of managing systems for a resilient future. 
 
-<<<<<<< HEAD
-Interests:
-=======
 interests:
->>>>>>> 6c36a1e75d941b3642fff0f4f29a7b7ae43617f7
 - Forest Ecology
 - Forecasting
 - Environmental Change
 
-Research Projects:
+research projects:
 - Forecasting Forest Responses
 - Multiple Stable States
 - CO2 fertilization and tree growth
@@ -67,11 +63,9 @@ social:
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-<<<<<<< HEAD
+
 #- icon: cv
-=======
 # - icon: cv
->>>>>>> 6c36a1e75d941b3642fff0f4f29a7b7ae43617f7
 #   icon_pack: ai
 #   link: static/files/cv.pdf
 
