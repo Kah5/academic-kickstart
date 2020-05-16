@@ -1,2 +1,8 @@
-public/
+# IDEs
 .idea/
+
+# Hugo
+resources/
+public/
+.Rproj.user
+.github/FUNDING.YAML
