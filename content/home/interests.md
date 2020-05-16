@@ -67,14 +67,6 @@ subtitle = ""
 +++
 
 ---
-
-
-### Ecological Forecasting
-We currently face drastic ongoing and future environmental changes that will undoubtedly change the structure of our societal and natural ecosystems. The ecological forecasting process allows us to *understand* the processes affecting ecosystem response, *quantify* current/past processes (with associated uncertainties), and *predict* system responses in the future (with associated uncertainties).
-
-The process of making ecological forecasts will help us understand the range of future responses of ecological systems, quantify which aspects of the future are highly uncertain, and inform management decisions to promote resiliency. In other words, through this process we identify what we know about the future, and what we know that we don’t know. 
-
----
 ### Environmental Change
 
 Ecological systems face extensive ongoing and future  environmental changes, including climate change, rising atmospheric CO2, changing fire regimes, and land use changes. My research is motivated by the need to forecast how ecological systems will respond to these concurrent changes, and potentially mitigate some of the worst effects.  To do this, my research looks at past responses of forests to environmental changes in order to inform our predictions of the future. 
@@ -83,8 +75,13 @@ Specifically, [I have used tree rings to quantify past responses of tree growth 
 
 
 ---
+### Ecological Forecasting
+We currently face drastic ongoing and future environmental changes that will undoubtedly change the structure of our societal and natural ecosystems. The ecological forecasting process allows us to *understand* the processes affecting ecosystem response, *quantify* current/past processes (with associated uncertainties), and *predict* system responses in the future (with associated uncertainties).
+
+The process of making ecological forecasts will help us understand the range of future responses of ecological systems, quantify which aspects of the future are highly uncertain, and inform management decisions to promote resiliency. In other words, through this process we identify what we know about the future, and what we know that we don’t know. 
+
+---
 ### Forest Ecology
 Much of my research focuses on forecasting the responses of forest (and temperate savanna) systems to ongoing and future environmental changes. Understanding the fate of these systems in the future is critical to preserving the myriad of ecosystem services that forests provide, including carbon uptake and sequestration, biodiversity, and biophysical feedbacks. My research aims to understand and forecast how environmental drivers and ecological feedbacks within forest systems interact to promote carbon storage, as increased carbon storage can feedback an mitigate some of the effects of future climate change. I have explored the [relative roles of species interactions]({{< ref "/project/GJAM/index.md" >}}) ,  [fire disturbance vegetation-feedbacks within savanna-forest systems]({{< ref "/project/old/index.md" >}}) , and [how forest structure modifies tree sensitivity to climate and response to increased atmospheric CO2]({{< ref "/project/project3/index.md" >}}) how forest structure modifies tree sensitivity to climate and response to increased atmospheric CO2.
 
-[A project]({{< ref "/project/GJAM/index.md" >}})
 ---
