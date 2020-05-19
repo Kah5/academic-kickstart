@@ -1,10 +1,11 @@
 ---
 title: "Sharp savanna-forest transitions in the Midwest followed environmental gradients but are absent from the modern landscape"
 authors:
-- Caitlin Broderick
+- Caitlin M. Broderick
 - Kelly A. Heilman
+- Tamatha A. Patterson
 - Jason S. McLachlan
-- Jody Peters
+- Jody A. Peters
 
 date: "2018-07-01T00:00:00Z"
 doi: "10.1674/0003-0031-180.1.1"
@@ -32,9 +33,8 @@ publication: In *American Midland Naturalist*
 # featured: true
 
 links:
-- name: Custom Link
-  #url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+
+#url_pdf: ""
 url_code: 'https://github.com/PalEON-Project/YellowRiver_Indiana'
 #url_dataset: '#'
 url_poster: 'https://sustainabilitystudies.nd.edu/sustainability-minor/capstone-projects/2017/broderick/'
