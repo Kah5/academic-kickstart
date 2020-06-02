@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by Kelly Heilman
+  caption: Image by Kelly Heilman
   focal_point: Smart
 
 links:
