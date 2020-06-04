@@ -16,7 +16,7 @@ height = "500px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Forecasting for reslient ecosystems"
+  title = "Forecasting for resilient ecosystems"
   #content = "I am center aligned :smile:"
   align = "center"  # Choose `center`, `left`, or `right`.
 
