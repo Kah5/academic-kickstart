@@ -38,7 +38,14 @@ Forest response to climate changes are critical to future carbon uptake and resi
  
 To improve forecasts, I assimilate two large datasets in a state space modelling framework: repeat censuses from the Forest Inventory & Analysis and annual tree ring growth records. This approach leverages the extensive spatial network and decadal timescale of forest surveys, and the rich temporal responses to interannual climate contained in tree ring records.
 
+Interested in hearing more? Check out the videos related to this work below:
 
-Check out our Laboratory of Tree Ring Research video about this research here! 
+Check out an outreach video we made for display at the Laboratory of Tree Ring Research: 
 
 {{< youtube id =FuUsmfTE7eI >}}
+
+
+I give a more detailed research talk on our state-space modelling framework here:
+{{< video library = "1" src = "Heilman_ESA_2020_talk.mp4" controls = "yes" >}}
+
+
