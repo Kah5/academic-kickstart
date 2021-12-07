@@ -29,6 +29,5 @@ jobs:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           publish_dir: ./public
           publish_branch: master  # deploying branch
-          cname: https://kah5.github.io/
           allow_empty_commit: true
           external_repository: Kah5/Kah5.github.io
