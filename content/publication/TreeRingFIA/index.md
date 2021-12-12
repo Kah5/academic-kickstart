@@ -1,23 +1,20 @@
 ---
-title: "Ecological forecasting of tree growth: regional fusion of tree-ring and forest inventory data to quantify drivers and characterize uncertainty"
+title: "Adding Tree Rings to North America’s National Forest Inventories: An Essential Tool to Guide Drawdown of Atmospheric CO2"
 authors:
-- Kelly A. Heilman
-- Michael C. Dietze
-- Andy O. Finley
-- Alexis Arizpe
-- Jacob Aragon
-- Andrew Gray 
-- John D. Shaw
-- Stefan Klesse
-- R. Justin DeRose
 - Margaret E.K. Evans
+- R. Justin DeRose
+- Stefan Klesse
+- Martin P. Girardin
+- Kelly A. Heilman
+- et al.
+
 
 
 date: "2021"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-11-27T00:00:00Z"
+publishDate: "2021-12-09T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,7 +23,7 @@ publishDate: "2021-11-27T00:00:00Z"
 # publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Global Change Biology
+publication: BioScinece
 publication_short: 
 
 # abstract: 
@@ -41,8 +38,8 @@ publication_short:
 links:
 #- name: Custom Link
 #  #url: "#"
-url_pdf: ""
-url_code: 'https://github.com/Kah5/pecan.git'
+url_pdf: "https://doi.org/10.1093/biosci/biab119"
+url_code: ''
 #url_dataset: '#'
 #url_poster: '#'
 url_project: ''
