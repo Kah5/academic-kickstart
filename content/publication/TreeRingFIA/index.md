@@ -23,7 +23,7 @@ publishDate: "2021-12-09T00:00:00Z"
 # publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: BioScinece
+publication: BioScience
 publication_short: 
 
 # abstract: 
@@ -37,12 +37,12 @@ publication_short:
 
 links:
 #- name: Custom Link
-#  #url: "#"
-url_pdf: "https://doi.org/10.1093/biosci/biab119"
-url_code: ''
+url_link: "https://doi.org/10.1093/biosci/biab119"
+#url_pdf: "https://doi.org/10.1093/biosci/biab119"
+#url_code: ''
 #url_dataset: '#'
 #url_poster: '#'
-url_project: ''
+#url_project: ''
 #url_slides: '#'
 #url_source: '#'
 #url_video: '#'
