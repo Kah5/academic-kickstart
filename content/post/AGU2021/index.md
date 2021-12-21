@@ -34,5 +34,5 @@ I enjoyed interacting with all of the AGU 2021 participants--both in-person and 
 
 If you missed AGU, you can check out my poster here!
 
-{{< figure src="AGUslide.pdf" title="AGU 2021 poster" >}}
+{{< figure src="AGU_poster_2021_small.png" title="AGU 2021 poster" >}}
 
