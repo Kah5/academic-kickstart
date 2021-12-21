@@ -19,7 +19,7 @@ links:
 #  url: https://twitter.com/georgecushen
 # url_code: ""
 # url_pdf: ""
-# url_slides: ""
+url_slides: "AGU_slide.pdf"
 
 
 
@@ -30,7 +30,7 @@ url_video: "https://www.youtube.com/watch?v=FuUsmfTE7eI&feature=share&fbclid=IwA
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: "AGU_poster_2021.pptx"
+#slides: "AGU_poster_2021.pptx"
 ---
 
 Forest response to climate changes are critical to future carbon uptake and resilience, but remain highly uncertain. Although higher temperatures and drier conditions may result in decreased carbon uptake, it may be possible to manage for stand conditions that are resilient to climate extremes.
