@@ -13,11 +13,11 @@ authors:
 - Margaret E.K. Evans
 
 
-date: "2021"
+date: "2022"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-11-27T00:00:00Z"
+publishDate: "2022-01-13T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -39,11 +39,11 @@ publication_short:
 # featured: true
 
 links:
-#- name: Custom Link
-#  #url: "#"
-url_pdf: ""
+#name: Custom Link
+#url: "https://onlinelibrary.wiley.com/share/author/3PBGBXJMVPMY7C35ZPVY?target=10.1111/gcb.16038"
+url_pdf: "https://onlinelibrary.wiley.com/share/author/3PBGBXJMVPMY7C35ZPVY?target=10.1111/gcb.16038"
 url_code: 'https://github.com/Kah5/pecan.git'
-#url_dataset: '#'
+url_dataset: 'https://doi.org/10.25739/sd83-rk24'
 #url_poster: '#'
 url_project: ''
 #url_slides: '#'
