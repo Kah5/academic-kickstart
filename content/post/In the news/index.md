@@ -30,9 +30,10 @@ projects: ["internal-project"]
 
 ---
 
-https://news.arizona.edu/story/future-forests-will-have-smaller-trees-and-soak-less-carbon-study-suggests
 
 I had the chance to catch up with journalist Mikayla Kelley to talk more about our recent paper in Global Change Biology! Check out the press release here: 
 
- external_link = "[Check out the press release here](https://news.arizona.edu/story/future-forests-will-have-smaller-trees-and-soak-less-carbon-study-suggests)"
+"[Check out the press release here](https://news.arizona.edu/story/future-forests-will-have-smaller-trees-and-soak-less-carbon-study-suggests)"
+
+"[The Global Change Biology paper is linked here.](https://onlinelibrary.wiley.com/share/author/3PBGBXJMVPMY7C35ZPVY?target=10.1111/gcb.16038)" or contact me for a pdf.
 
