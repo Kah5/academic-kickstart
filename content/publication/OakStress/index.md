@@ -22,8 +22,6 @@ authors:
 
 
 
-Novick, Kimberly, Insu Jo, Loïc D’Orangeville, Michael Benson, Tsun Fung Au, Mallory Barnes, Sander Denham, et al. 2022. “The Drought Response of Eastern US Oaks in the Context of Their Declining Abundance.” BioScience, January, biab135. https://doi.org/10.1093/biosci/biab135.
-
 
 date: "2022"
 doi: ""
