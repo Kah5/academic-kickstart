@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Press coverage on our new paper in Global Change Biology!"
+title: "KVOA Tucson feature on our new paper in Global Change Biology!"
 subtitle: "Future forests will have smaller trees and soak up less carbon, study suggests"
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2022-01-27T17:35:45-07:00
-lastmod: 2022-01-27T17:35:45-07:00
+date: 2022-02-10T17:35:45-07:00
+lastmod: 2022-02-10T17:35:45-07:00
 featured: false
 draft: false
 
